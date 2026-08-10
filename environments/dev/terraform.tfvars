@@ -3,7 +3,7 @@ rgs = {
     rg_name  = "corp_dev"
     location = "west europe"
   }
-    rg2 = {
+  rg2 = {
     rg_name  = "corp_prod"
     location = "west europe"
   }
